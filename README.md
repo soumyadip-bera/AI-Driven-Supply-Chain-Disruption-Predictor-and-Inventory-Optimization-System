@@ -3,6 +3,7 @@
 This project focuses on building an AI-powered system to predict supply chain disruptions and optimize inventory management with actionable insights. The system fetches real-time news articles, analyzes supply chain risks and sentiments, evaluates warehouse data, and generates alerts with email notifications to enable proactive decision-making. The solution is specifically designed for the semiconductor industry, but it can be adapted to other domains.
 
 Milestones
+
 Milestone 1: News Article Fetcher
 Objective: Collect relevant news articles related to supply chain disruptions.
 Implementation:
